@@ -1,0 +1,126 @@
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+}
+
+li{
+    display:inline;
+}
+
+.logo{
+    text-align:left;
+    padding:20px; 
+}
+#wishlist-icon img{
+    float:right;
+    margin-top:-45px;  
+    width:50px;
+}
+
+#login-icon img{
+    float:right;
+    margin-top:-40px;  
+    width:35px;
+}
+
+ul{
+    font-family:Arial, Helvetica, sans-serif; 
+    background-color:black;
+    color:white; 
+    padding:10px; 
+}
+
+ul li a{
+    color:white; 
+    text-decoration:none; 
+    padding:10px; 
+}
+
+ul li a:visited
+{ 
+    color: white; 
+}
+
+ul li a:hover{
+    background-color:white; 
+    padding:10px; 
+    color:black;
+}
+
+footer{
+    background-color:black;
+    text-align:center;  
+    font-family:Arial, Helvetica, sans-serif;
+    padding:1px; 
+    color:white; 
+}
+
+#footerLinks{
+    text-align:center; 
+}
+
+form{
+    padding:10px; 
+}
+
+#contact-form{
+    text-align:center;
+    padding:60px;  
+}
+
+#contact-form form .row{
+    margin-bottom:10px;
+}
+
+#login-form{
+    text-align:center; 
+    padding:60px; 
+}
+
+#contact-details{
+    text-align:center; 
+    padding-bottom:60px; 
+}
+
+#products{
+    padding:10px; 
+}
+
+#about{
+    padding-bottom:40px; 
+    text-align:center; 
+}
+
+#products > div {
+    display:flex; 
+
+}
+
+#products > div > img{
+    margin-right:20px;
+}
+
+#enquiery-form{
+    text-align:center;
+}
+
+.policy{
+    text-align:center;
+    padding:50px; 
+}
+
+.contact-header{
+    text-decoration:underline; 
+}
+
+#latest-arrivals{
+    text-align:center; 
+}
+
+#wishlist{
+    text-align:center; 
+    padding:10px; 
+}
+
+.search{
+    text-align:right;
+}
